@@ -6,7 +6,7 @@ Meu Nome É Pablo Haddad
 
 - Sou Estudante Da [Alura](https://www.alura.com.br), +30 Cursos Realizados
 - Sou Estudante Da [Education First](https://www.ef.com.br/#homepage), +2 Certificados
-- Conhecimento Sobre: Infórmatica Básica - [Senai](https://www.sp.senai.br/)
+- Certificado Sobre: Infórmatica Básica - [Senai](https://www.sp.senai.br/)
 
 ## Entrar EM Contato 📲
 
