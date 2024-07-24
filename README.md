@@ -1,16 +1,17 @@
-## Hi there 👋
+## Seja Bem Vindo Ao Meu Perfil 🕵️ 🇧🇷
 
-<!--
-**PabloHaddad/PabloHaddad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome É Pablo Haddad
 
-Here are some ideas to get you started:
+## Qualificações 💼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sou Estudante Da [Alura](https://www.alura.com.br), +30 Cursos Realizados
+- Sou Estudante Da [Education First](https://www.ef.com.br/#homepage), +2 Certificados
+- Conhecimento Sobre: Infórmatica Básica - [Senai](https://www.sp.senai.br/)
+
+## Entrar EM Contato 📲
+
+_Preferência_: (15) 981011271 ou
+pabloeduardomatiashadd@gmail.com 📧
+
+
+![](https://media1.tenor.com/m/eFWg68USeZgAAAAd/computer-hacker-fallout.gif)
