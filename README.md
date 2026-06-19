@@ -72,7 +72,6 @@ Desenho e implementação de uma topologia de rede corporativa de alta resiliên
 ## 🎓 Formação & Certificações
 
 * **Técnico em Segurança Cibernética** — SENAC Sorocaba (Conclusão: 08/2026)
-* **Ensino Médio** — E.E. Senador Vergueiro (Conclusão: 12/2026)
 * **CCNA: Introduction to Networks** — Cisco Networking Academy
 * **Assistente de Segurança da Informação** — SENAC Sorocaba
 * **Assistente de Operações de Redes de Computadores** — SENAC Sorocaba
