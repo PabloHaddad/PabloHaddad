@@ -80,7 +80,7 @@ Desenho e implementação de uma topologia de rede corporativa de alta resiliên
 
 ## 🌐 Idiomas
 * **Português:** Nativo
-* **Inglês:** Nível A2 Elementary (Certificado pela Plataforma SPEAK — EF Level 6)
+* **Inglês:** Nível B1 Elementary (Certificado pela Plataforma SPEAK — EF Level 9)
 
 ---
 
