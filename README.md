@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:pabloeduardomatiashadd@gmail.com"><img src="https://img.shields.io/badge/Email-pabloeduardomatiashadd%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/pablo-eduardo-h-9473a2304" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://pablohaddad.github.io/Portf-lio" target="_blank"><img src="https://img.shields.io/badge/Portfólio_Web-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"></a>
+  <a href="https://pablohaddad.github.io/cybersec-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio_Web-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"></a>
 </p>
 
 ---
